@@ -1,4 +1,4 @@
-# Hi there, I'm Anurag Jaiswal
+# Hi there👋, I'm Anurag Jaiswal
 
 **AI + Full Stack Developer | Problem Solver | Tech Leader**
 

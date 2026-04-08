@@ -47,7 +47,7 @@
 
 ---
 
-### 🧠 AI Disease Prediction
+## AI Disease Prediction
 
 * ML model for predicting diseases like diabetes
 * End-to-end pipeline (data → model → deployment)
@@ -56,11 +56,11 @@
 
 ## 🏆 Achievements
 
-* 🥈 2nd Prize - Eureka! (IIT Bombay)
-* 🥉 3rd Place - YUKTI Hackathon (150+ teams)
-* 🎓 Student of the Semester
-* 👨‍💼 Technical Head @ Pregrad
-* 🌐 GDG Campus Co-Organizer
+* 2nd Prize - Eureka! (IIT Bombay)
+* 3rd Place - YUKTI Hackathon (150+ teams)
+* Student of the Semester
+* Technical Head @ Pregrad
+* GDG Campus Co-Organizer
 
 ---
 

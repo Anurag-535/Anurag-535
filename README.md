@@ -42,15 +42,17 @@
 ### Krishi Mitra (AI Crop Monitoring)
 
 * AI-powered platform for crop health detection
-* Uses hyperspectral imaging + ML
-  🔗 https://github.com/Anurag-535/Krishi_Mitra
+* Uses hyperspectral imaging + ML  <br>
+  🔗 github.com/Anurag-535/Krishi_Mitra  <br>
+  🔗 krishi-mitra-lilac.vercel.app/
 
 ---
 
 ## AI Disease Prediction
 
 * ML model for predicting diseases like diabetes
-* End-to-end pipeline (data → model → deployment)
+* End-to-end pipeline (data → model → deployment) <br>
+  🔗github.com/Anurag-535/AI-Powered-Medical-Diagnosis-System
   
 ---
 

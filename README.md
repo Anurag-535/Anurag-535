@@ -1,15 +1,15 @@
-# Hi there 👋, I'm Anurag Jaiswal
+# Hi there, I'm Anurag Jaiswal
 
-💡 **AI + Full Stack Developer | Problem Solver | Tech Leader**
+**AI + Full Stack Developer | Problem Solver | Tech Leader**
 
-🎓 B.Tech CSE (AI) @ GNIOT (2023–2027)
-🏆 Hackathon Winner | Technical Head | GDG Co-Organizer
+ B.Tech CSE (AI) @ GNIOT (2023–2027)
+ Hackathon Winner | Technical Head | GDG Co-Organizer
 
 ---
+<!--
+##  About Me
 
-## 🚀 About Me
-
-* 🔭 Currently building **AI-powered real-world applications**
+*  Currently building **AI-powered real-world applications**
 * 🌱 Exploring **Machine Learning, Full Stack, and Cloud**
 * 👨‍💻 Strong in **Java, React, Node.js, AI/ML**
 * 🧠 Love solving problems using **DSA (C++)**
@@ -36,10 +36,10 @@
 `MySQL` `Firebase` `Supabase` `Power BI` `Git`
 
 ---
+-->
+## Featured Projects
 
-## 🔥 Featured Projects
-
-### 🌱 Krishi Mitra (AI Crop Monitoring)
+### Krishi Mitra (AI Crop Monitoring)
 
 * AI-powered platform for crop health detection
 * Uses hyperspectral imaging + ML
@@ -51,14 +51,7 @@
 
 * ML model for predicting diseases like diabetes
 * End-to-end pipeline (data → model → deployment)
-
----
-
-### 🍱 Feed-A-Life
-
-* Platform connecting food donors to needy people
-* Real-time location-based system
-
+* 
 ---
 
 ## 🏆 Achievements
@@ -85,9 +78,9 @@
 * 🔗 LinkedIn: https://linkedin.com/in/anuragj
 
 ---
-
+<!--
 ⭐️ *“Building impactful tech that solves real-world problems.”*
-
+-->
 
 <!--
 **Anurag-535/Anurag-535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

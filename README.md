@@ -43,8 +43,8 @@
 
 * AI-powered platform for crop health detection
 * Uses hyperspectral imaging + ML  <br>
-  🔗 ![GitHub Link](github.com/Anurag-535/Krishi_Mitra) <br>
-  🔗 ![Website Link](github.com/Anurag-535/Krishi_Mitra)
+  🔗 [Source Code ](https://github.com/Anurag-535/Krishi_Mitra)<br>
+  🔗 [Website Link](https://krishi-mitra-lilac.vercel.app/)
 
 ---
 
@@ -52,7 +52,7 @@
 
 * ML model for predicting diseases like diabetes
 * End-to-end pipeline (data → model → deployment) <br>
-  🔗github.com/Anurag-535/AI-Powered-Medical-Diagnosis-System
+  🔗[Source Code](https://github.com/Anurag-535/AI-Powered-Medical-Diagnosis-System)
   
 ---
 
@@ -62,22 +62,23 @@
 * 3rd Place - YUKTI Hackathon (150+ teams)
 * Student of the Semester
 * Technical Head @ Pregrad
+* Ex Squad Leader @GAO Tak
 * GDG Campus Co-Organizer
 
 ---
 
-## 📈 GitHub Stats
+## 📈 My Socials
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag-535\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-535\&layout=compact\&theme=tokyonight)
+🔗 [Google Developer Profile](https://developers.google.com/profile/u/anuragjaiswal) <br>
+🔗 [Linktree](https://linktr.ee/anuragjaiswal) <br>
+🔗 [LinkedIn](https://linkedin.com/in/anuragj)
 
 ---
 
 ## 📫 Connect With Me
 
 * 📧 [anuragniot@gmail.com](mailto:anuragniot@gmail.com)
-* 🔗 LinkedIn: https://linkedin.com/in/anuragj
+
 
 ---
 <!--

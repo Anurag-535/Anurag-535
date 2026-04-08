@@ -51,7 +51,7 @@
 
 * ML model for predicting diseases like diabetes
 * End-to-end pipeline (data → model → deployment)
-* 
+  
 ---
 
 ## 🏆 Achievements

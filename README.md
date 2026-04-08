@@ -43,8 +43,8 @@
 
 * AI-powered platform for crop health detection
 * Uses hyperspectral imaging + ML  <br>
-  🔗 github.com/Anurag-535/Krishi_Mitra  <br>
-  🔗 krishi-mitra-lilac.vercel.app/
+  🔗 ![GitHub Link](github.com/Anurag-535/Krishi_Mitra) <br>
+  🔗 ![Website Link](github.com/Anurag-535/Krishi_Mitra)
 
 ---
 

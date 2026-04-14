@@ -2,8 +2,7 @@
 
 **AI + Full Stack Developer | Problem Solver | Tech Leader**
 
- B.Tech CSE (AI) @ GNIOT (2023–2027)
- Hackathon Winner | Technical Head | GDG Co-Organizer
+ B.Tech CSE (AI) @ GNIOT (2023–2027) | Hackathon Winner | Technical Head | GDG Co-Organizer
 
 ---
 <!--
